@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test3(failed)">
+    <classes>
+      <class name="testcases.TestCase003">
+        <methods>
+          <include name="SetupOne"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- testcases.TestCase003 -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+  <test thread-count="5" name="Test6(failed)">
+    <classes>
+      <class name="testcases.TestCase006">
+        <methods>
+          <include name="SetupOne"/>
+          <include name="Booking"/>
+        </methods>
+      </class> <!-- testcases.TestCase006 -->
+    </classes>
+  </test> <!-- Test6(failed) -->
+  <test thread-count="5" name="Test8(failed)">
+    <classes>
+      <class name="testcases.TestCase008">
+        <methods>
+          <include name="SetupOne"/>
+          <include name="Otherfields"/>
+        </methods>
+      </class> <!-- testcases.TestCase008 -->
+    </classes>
+  </test> <!-- Test8(failed) -->
+</suite> <!-- Failed suite [Suite] -->

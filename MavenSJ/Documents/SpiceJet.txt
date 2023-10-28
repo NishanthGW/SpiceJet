@@ -1,0 +1,178 @@
+https://www.spicejet.com/
+=======================================================
+
+		try{
+
+		}
+		catch(Exception e){
+
+		}
+=======================================================
+
+	@FindBy(xpath="")
+	public static WebElement ;
+=======================================================
+
+if(){
+
+}
+else{
+}
+
+Assert.assert
+=======================================================
+### Check-In
+
+//div[text()='check-in']
+checkin
+
+(//input[@class='css-1cwyjr8 r-homxoj r-ubezar r-1eimq0t r-1e081e0 r-xfkzu9 r-lnhwgy'])[1]
+TicketNumber
+
+(//input[@class='css-1cwyjr8 r-homxoj r-ubezar r-1eimq0t r-1e081e0 r-xfkzu9 r-lnhwgy'])[2]
+EmailIDCI
+
+//div[text()='Search Booking']
+SearchBooking
+=======================================================
+### FlightStatus
+//div[text()='flight status']
+FlightStatus
+//div[text()='Departure Date']
+DepartureDate
+//div[text()='Yesterday']
+Yesterday
+//div[text()='Today']
+Today
+//div[text()='Tomorrow']
+Tomorrow
+(//input[@class='css-1cwyjr8 r-homxoj r-ubezar r-10paoce r-13qz1uu'])[1]
+From
+//div[text()='Indira Gandhi International Airport']
+Delhi
+(//input[@class='css-1cwyjr8 r-homxoj r-ubezar r-10paoce r-13qz1uu'])[2]
+To
+//div[text()='Netaji Subhash Chandra Bose International Airport']
+Kolkata
+//input[@class='css-1cwyjr8 r-homxoj r-1i10wst r-1eimq0t r-mk0yit r-xfkzu9 r-lnhwgy']
+FlightNumber
+//div[text()='Search Flights']
+SearchFlights
+=======================================================
+//div[text()='manage booking']
+ManageBooking
+/descendant::input[@class='css-1cwyjr8 r-homxoj r-ubezar r-1eimq0t r-1e081e0 r-xfkzu9 r-lnhwgy'][1]
+TicketNumberMB
+/descendant::input[@class='css-1cwyjr8 r-homxoj r-ubezar r-1eimq0t r-1e081e0 r-xfkzu9 r-lnhwgy'][2]
+EmailIDMB
+//div[text()='Search Booking']
+SearchBookingMB
+//div[text()='View Change Assist']
+ViewChangeAssist
+
+=======================================================
+//div[text()='Book your Charter']
+BookyourCharter
+
+
+=======================================================
+//descendant::
+
+//div[@data-testid='']
+//input[@data-testid='']
+//div[@class='']
+//div[text()='']
+//input[@id='']
+//input[@class='']
+//a[text()='']
+//button[@='']
+//option[text()='']
+//select[@class='']
+
+Thread.sleep(6000);
+
+JavascriptExecutor JSE1 = (JavascriptExecutor) driver;
+JSE1.executeScript("window.scrollBy(0,document.body.scrollHeight)");
+
+Captain
+Steve
+14th June 1990
+godwinnishan@gmail.com
+9566615021
+Ncgusa#1237
+
+Issues:
+
+TestCase002
+1. Account need to be created.
+2. 
+
+TestCase003
+1. Need to fix OtherLI method
+
+TestCase00
+1. Unable enter the text in 'from'.
+2. Do we need to store all the dropdown elent. ex Currency...
+=======================================================
+### Payment
+
+//span[@id='selectfrompopup']
+SelectseatPromp
+tyrcatch
+
+//div[text()='Credit/Debit Card']
+CreditDebitCard
+
+//input[@id='card_number']
+CardNumber
+
+//input[@id='name_on_card']
+Name
+
+//input[@id='card_exp_month']
+MM
+
+//input[@id='card_exp_year']
+YY
+
+//input[@id='security_code']
+CVV
+
+//div[@class='css-1dbjc4n r-1awozwy r-un1frt r-z2wwpe r-1loqt21 r-18u37iz r-1777fci r-6ity3w r-d9fdf6 r-9qu9m4 r-ah5dr5 r-1otgn73']
+Proceed
+
+//div[text()='NetBanking']
+NetBanking
+
+//div[text()='UPI']
+UPI
+
+//div[text()='Wallets']
+Wallets
+
+//div[text()='EMI']
+EMI
+
+//div[text()='Credit Shell']
+CreditShell
+
+//div[text()='Gift Card']
+Gift Card
+
+//div[text()='SC Points']
+SC Points
+
+//div[text()='Voucher']
+Voucher
+
+
+
+
+
+
+
+
+
+
+
+

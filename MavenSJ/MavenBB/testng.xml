@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test1">
+    <classes>
+      <class name="testcasesUSA.Task001"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test2">
+    <classes>
+      <class name="testcasesUSA.Task002"/>
+    </classes>
+  </test> <!-- Test -->  
+   <test thread-count="5" name="Test3">
+    <classes>
+      <class name="testcasesUSA.Task003"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test4">
+    <classes>
+      <class name="testcasesUSA.Task004"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test5">
+    <classes>
+      <class name="testcasesUSA.Task005"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test6">
+    <classes>
+      <class name="testcasesUSA.Task006"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test7">
+    <classes>
+      <class name="testcasesUSA.Task007"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test8">
+    <classes>
+      <class name="testcasesUSA.Task008"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test9">
+    <classes>
+      <class name="testcasesUSA.Task009"/>
+    </classes>
+  </test> <!-- Test -->
+   <test thread-count="5" name="Test10">
+    <classes>
+      <class name="testcasesUSA.Task010and11"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
